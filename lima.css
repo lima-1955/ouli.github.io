@@ -1,0 +1,122 @@
+h1 #lima{
+	color: silver;
+
+}
+body{
+	background-color: silver;
+}
+.mata{
+	flex-direction: ;
+}
+#nancy{
+		flex-direction: center;
+}
+.image{
+	flex-direction: center;
+}
+#navigtion{
+	border: 2px solid none;
+	position: fixed;
+	right:50px;
+top:5px;	
+}
+h4{ color: blue;
+	text-align: center;
+	color: green;
+}
+
+header{ border-bottom: 2px solid #fff;
+height: 120px;
+}
+h1{
+	font-size:95px;
+	font-style:
+	font-weight:; 
+	font-direction:center;
+}
+h2{
+	color: green;
+	text-align:;
+	font-size:95px;
+	font-style:
+	font-weight:; 
+	font-direction:center;
+}
+h3{
+	color: green;
+	text-align:;
+	font-size:55px;
+	font-style:
+	font-weight:; 
+	font-direction:center;
+}	
+}
+}
+nav,section{
+	display:inline-block;
+	vertical-align:top;
+	margin:10px;
+	bottom:5px;
+}
+em h1{
+	text-align: center;
+}
+#logo{
+	border: 2px solid none;
+	position: fixed;
+	right:50px;
+top:5px;
+}
+#logo1{
+		border: 1px solid none;
+	position: fixed;
+	right:2px;
+top:1px;
+}
+#logo5{
+	border: 1px solid none;
+	position: fixed;
+	right:2px;
+top:1px;
+}
+#logo6{
+	border: 1px solid none;
+	position: fixed;
+	right:2px;
+top:1px;
+}
+#logo7{
+	border: 1px solid none;
+	position: fixed;
+	right:2px;
+top:1px;
+}
+h1
+{ 
+	color: blue;
+	text-align: center;
+
+
+}
+#infos{
+	display: block;
+	float: left;
+}
+/*.ana{ 
+		flex-direction: center;
+}*/
+section{
+	display: inline-block;
+	margin-right:190px;
+	border-radius: 10px;
+	background-color: ;
+}
+section{
+	width:250px;
+	height:150px;
+	background-color: ;
+	display:inline-block;
+	margin: 3px;
+	border: 50px;
+}
+}
